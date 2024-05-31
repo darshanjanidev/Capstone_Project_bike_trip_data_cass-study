@@ -385,7 +385,7 @@ FROM dbo.[2023_24_tripdata_alldata_cleaned]
 
 In step, all the reports are saved individually in .csv format for visual analysis.
 
-'''
+```
 -- bike type used by riders
  USE case_study;
 
@@ -529,7 +529,7 @@ FROM
 GROUP BY 
     end_station_name, 
     member_casual;
-'''
+```
 
 
 
