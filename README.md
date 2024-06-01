@@ -533,7 +533,8 @@ GROUP BY
 
 
 
-Data Visualization: [Tableau](https://public.tableau.com/app/profile/darshan.jani/viz/Case_Study-Bike-Trip-data/BikeTypes#1)  
+### Data Visualization: [Tableau](https://public.tableau.com/app/profile/darshan.jani/viz/Case_Study-Bike-Trip-data/BikeTypes#1)  
+
 The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau.  
 The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?  
 
@@ -581,4 +582,43 @@ Summary:
 |Start and end their journeys near parks, museums, along the coast and other recreational sites.|Start and end their trips close to universities, residential and commercial areas.|  
   
 ## Act
-After identifying the differences between casual and member riders, marketing strategies to target casual riders can be developed to persuade them to become members.  
+
+### Recommendation on Insights
+
+1. **Bike Type Usage**:
+   - **Classic and Electric Bikes**: Both annual members and casual riders predominantly use classic bikes, followed by electric bikes. Casual riders show a significant preference for docked bikes, unlike members.
+   - **Recommendation**: Promote the benefits and convenience of annual membership, emphasizing the ease of access to classic and electric bikes. Highlight exclusive offers or additional perks for docked bikes within memberships.
+
+2. **Monthly Trends**:
+   - **Peak Months**: Both user types peak in spring and summer, with July showing the smallest gap between casual and member rides.
+   - **Recommendation**: Launch membership promotions during spring and summer, leveraging the high usage periods. Offer seasonal discounts or incentives for casual riders to switch to annual memberships.
+
+3. **Weekly Patterns**:
+   - **Weekend Rides**: Casual riders prefer weekends, whereas members' rides drop during weekends.
+   - **Recommendation**: Create weekend-specific membership benefits, such as weekend ride discounts or family packages, to attract casual riders who primarily use bikes on weekends.
+
+4. **Daily Ride Patterns**:
+   - **Commuter Peaks**: Members have two peaks corresponding to typical commuting times, while casual riders show a gradual increase in trips throughout the day.
+   - **Recommendation**: Position annual membership as a cost-effective and convenient commuting option. Offer incentives like commuter packages or partnerships with local businesses for discounts during commuting hours.
+
+### Digital Media Strategies
+
+1. **Targeted Advertising**:
+   - Use data-driven insights to create targeted ad campaigns that highlight the convenience and cost savings of annual memberships.
+   - Focus on digital channels like social media, email newsletters, and mobile apps to reach casual riders effectively.
+
+2. **Engaging Content**:
+   - Develop engaging content that showcases the benefits of being a member, such as ease of access, availability of different bike types, and exclusive member perks.
+   - Use testimonials and stories from current members to build trust and credibility.
+
+3. **Promotional Campaigns**:
+   - Run limited-time promotions during peak usage months and weekends to entice casual riders to upgrade to annual memberships.
+   - Offer referral bonuses for existing members who bring in new annual members from the pool of casual riders.
+
+4. **Mobile App Enhancements**:
+   - Improve the mobile app experience by adding features like ride tracking, personalized recommendations, and seamless membership upgrade options.
+   - Push notifications about exclusive member benefits, upcoming promotions, and personalized offers based on casual riders' usage patterns.
+
+### Conclusion
+
+By understanding the distinct usage patterns of annual members and casual riders, Cyclistic can design effective marketing strategies to convert casual riders into annual members. Leveraging digital media, targeted advertising, engaging content, and well-timed promotions can maximize the impact and drive membership growth, ensuring future success for Cyclistic.
